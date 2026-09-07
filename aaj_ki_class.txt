@@ -12,3 +12,4 @@ git config --global user.email "your@email.com"
 git branch
 git branch bareilly
 git switch bareilly
+isko conflict karna hai
