@@ -1,0 +1,11 @@
+aaj git seekhenge
+git init run first
+git status
+git add filename
+git commit -m file name
+git branch
+
+# Git configuration
+git --version
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
