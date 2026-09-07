@@ -1,0 +1,3 @@
+fhghgjkk
+git init
+git version
